@@ -23,7 +23,3 @@ Ensure the following dependencies are installed:
 3. `numpy` (for array operations)
 4. `imutils` (for streamlined OpenCV functions)
 
-To install all requirements, run:
-
-```bash
-pip install -r requirements.txt
